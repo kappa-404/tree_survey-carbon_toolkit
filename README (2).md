@@ -2,7 +2,6 @@
 
 A Python tool for analysing woodland tree survey data. Feed it a CSV of tree measurements and it generates a species breakdown, condition statistics, a carbon stock estimate, an interactive map, and a formatted PDF report.
 
-Originally built around personal field survey data collected at Crab Wood, Hampshire, and generalised to work with any tree survey CSV.
 
 ## What it does
 
