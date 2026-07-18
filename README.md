@@ -1,4 +1,7 @@
 # Tree Survey Analyser
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 
 A Python tool for analysing woodland tree survey data. Feed it a CSV of tree measurements and it generates a species breakdown, condition statistics, a carbon stock estimate, an interactive map, and a formatted PDF report.
 
