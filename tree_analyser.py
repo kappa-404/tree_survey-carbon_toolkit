@@ -258,5 +258,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# run with: python3 tree_analyser.py path/to/survey.csv
-# optional: --name "My Wood" --density-table densities.csv --outdir out/
+
