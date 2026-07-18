@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated outputs (maps and reports produced by running the script)
+*_map.html
+*_report.pdf
+
+# Local/real survey data - keep your own data out of version control
+# (remove or edit these lines if you *do* want to commit your data)
+crabwood.csv
+*.csv
+!sample_survey.csv
+
+# OS
+.DS_Store
+Thumbs.db

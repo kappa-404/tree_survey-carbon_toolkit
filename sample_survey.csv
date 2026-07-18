@@ -1,0 +1,16 @@
+species,height,diameter,condition,latitude,longitude
+English Oak,18.4,52.3,good,0.0000,0.0000
+Silver Birch,12.1,24.6,good,0.0001,0.0001
+Ash,15.7,38.2,fair,0.0002,-0.0001
+Field Maple,9.3,19.8,good,-0.0001,0.0002
+Hazel,4.2,8.5,good,0.0003,0.0000
+Sessile Oak,21.0,61.7,fair,-0.0002,-0.0002
+Wild Cherry,11.6,27.4,poor,0.0000,0.0003
+Holly,6.8,14.2,good,0.0004,-0.0001
+Hornbeam,13.9,33.1,good,-0.0003,0.0001
+Silver Birch,10.4,21.9,fair,0.0001,-0.0003
+Ash,17.2,44.8,poor,-0.0001,0.0004
+English Oak,19.8,58.6,good,0.0002,0.0002
+Field Maple,8.7,17.3,good,-0.0004,-0.0001
+Yew,7.5,16.9,good,0.0003,0.0003
+Wild Cherry,10.9,25.6,fair,-0.0002,0.0000
